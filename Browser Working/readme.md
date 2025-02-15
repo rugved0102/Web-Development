@@ -101,7 +101,7 @@ Modern browsers optimize rendering using techniques like:
 
 ```text
 Raw Bytes -> Characters -> Tokens -> DOM/CSSOM -> Render Tree -> Painting
-
+```
 ![Screenshot 2025-02-15 114634](https://github.com/user-attachments/assets/a94cb1ba-165c-4f85-b212-652ffeae149d)
 
 
